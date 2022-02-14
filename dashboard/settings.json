@@ -1,0 +1,14 @@
+{
+    "website" : {
+      "support": "https://discord.gg/HXcBmvJ3Gx",
+      "domain": "https://musicium.BQNBiswa.repl.co"
+    },
+    "config": {
+        "http": {
+          "port": 80
+        },
+        "callback": "https://musicium.BQNBiswa.repl.co/callback",
+        "clientID": "886816133158682654",
+        "secret": "REPLIT VARIABLE TO HIDE IT!!"
+    }
+  }
