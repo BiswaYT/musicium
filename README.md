@@ -5,7 +5,7 @@
 
 
 
-### [**DISCORD SUPPORT SERVER INVITE**](https://support.milrato.eu)
+### [**DISCORD SUPPORT SERVER INVITE**](https://discord.gg/3zb8aSxj52)
 
 ***
 
@@ -55,14 +55,6 @@
 
 <br/>
 <br/>
-
-# SUPPORT ME AND MILRATO DEVELOPMENT
-
-You can always Support me by inviting one of my **own Discord Bots**
-
-[![2021's best Music Bot | Lava Music](https://cdn.discordapp.com/attachments/748533465972080670/817088638780440579/test3.png)](https://lava.milrato.eu)
-[![Musicium Music Bot](https://cdn.discordapp.com/attachments/742446682381221938/770055673965707264/test1.png)](https://dc.musicium.eu)
-[![Milrato Multi Bot](https://cdn.discordapp.com/attachments/742446682381221938/770056826724679680/test1.png)](https://dc.milrato.eu)
 
 # Credits
 
