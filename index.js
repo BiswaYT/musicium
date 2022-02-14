@@ -101,11 +101,10 @@ client.login(process.env.token || config.token)
 
 /**
  * @INFO
- * Bot Coded by Tomato#6966 | https://discord.gg/milrato
+ * Bot Coded by Biswa YT#4308 |
+ * https://www.youtube.com/channel/UCI9KCzWd7utpnKmqceR9xYA
  * @INFO
- * Work for Milrato Development | https://milrato.eu
- * @INFO
- * Please mention Him / Milrato Development, when using this Code!
+ * Please mention Him , when using this Code!
  * @INFO
  */
 
